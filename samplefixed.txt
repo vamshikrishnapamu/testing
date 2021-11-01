@@ -1,7 +1,3 @@
-_____________ _______________ ______________________ ______ ______________________
-Gene           Chromosomal     Swiss-Prot             MIM    Description
-name           position        AC        Entry name   code
-______________ _______________ ______________________ ______ ______________________
 A3GALT2       1p35.1          U3KPV4     A3LT2_HUMAN        Alpha-1,3-galactosyltransferase 2 (EC 2.4.1.87) (Isoglobotriaosylceramide synthase) (iGb3 synthase) (iGb3S) [A3GALT2P] [IGBS3S]
 AADACL3       1p36.21         Q5VUY0     ADCL3_HUMAN        Arylacetamide deacetylase-like 3 (EC 3.1.1.-)
 AADACL4       1p36.21         Q5VUY2     ADCL4_HUMAN        Arylacetamide deacetylase-like 4 (EC 3.1.1.-)
